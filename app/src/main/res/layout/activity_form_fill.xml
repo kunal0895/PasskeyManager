@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dhiren.passkeymanager.FormFill">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="75dp"
+            >
+
+
+            <TextView
+                android:id="@+id/tvname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Profile Name:" />
+
+            <EditText
+                android:id="@+id/etpname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvname"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvlang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etpname"
+                android:text="Profile Language:" />
+
+            <AutoCompleteTextView
+                android:id="@+id/atvlang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvlang"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/atvlang"
+                android:text="Title:" />
+
+            <AutoCompleteTextView
+                android:id="@+id/atvtitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvtitle"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvfname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/atvtitle"
+                android:text="First Name:" />
+
+            <EditText
+                android:id="@+id/etfname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvfname"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvmname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etfname"
+                android:text="Middle Name:" />
+
+            <EditText
+                android:id="@+id/etmname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvmname"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvlname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etmname"
+                android:text="Last Name:" />
+
+            <EditText
+                android:id="@+id/etlname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvlname"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvuname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etlname"
+                android:text="Username:" />
+
+            <EditText
+                android:id="@+id/etuname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvuname"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvgender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etuname"
+                android:text="Gender:" />
+
+            <AutoCompleteTextView
+                android:id="@+id/atvgender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvgender"
+                android:inputType="text"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/tvbdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/atvgender"
+                android:text="Birth Date :" />
+
+            <EditText
+                android:id="@+id/etbdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvbdate"
+                android:focusable="false"
+                android:inputType="date"
+                android:maxLines="1"/>
+
+            <Button
+                android:id="@+id/bfinal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etbdate"
+                android:text="Confirm"/>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

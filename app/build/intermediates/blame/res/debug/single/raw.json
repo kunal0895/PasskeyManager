@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.6.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.6.1\\res\\raw\\gtm_analytics"
+    }
+]

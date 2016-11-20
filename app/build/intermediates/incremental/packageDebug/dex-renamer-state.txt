@@ -1,0 +1,7 @@
+#Thu Nov 17 23:11:41 IST 2016
+base.0=F\:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_42cf6552d2f5cae51c7f791cf926ebe35cf7f4ed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9ce0473dbb275ef7d0c021fa837230a4bf1707c4\\classes.dex
+base.1=F\:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9ce0473dbb275ef7d0c021fa837230a4bf1707c4
+file.0=F\:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_42cf6552d2f5cae51c7f791cf926ebe35cf7f4ed\\classes.dex

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "979507725341",
+    "firebase_url": "https://passkey-manager.firebaseio.com",
+    "project_id": "passkey-manager",
+    "storage_bucket": "passkey-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979507725341:android:f8a31aef92f76c00",
+        "android_client_info": {
+          "package_name": "com.example.dhiren.passkeymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979507725341-4koa4uv9vg46835p5qme26sbk6hi6rmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX6-QuM3gG0NclsDCMWPkEWrt9Sni23b4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

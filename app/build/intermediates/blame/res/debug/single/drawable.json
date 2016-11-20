@@ -1,0 +1,1362 @@
+[
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image4.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\image4.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yahoo.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\yahoo.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tatacliq.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\tatacliq.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\infibeam.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\infibeam.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_delete.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\ic_action_delete.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\image3.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\centralbankofindia.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\centralbankofindia.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kfc.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\kfc.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oyorooms.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\oyorooms.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\denabank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\denabank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobikwik.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\mobikwik.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image1.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\image1.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pepperfry.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\pepperfry.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outlook.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\outlook.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oyorooms.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\oyorooms.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\denabank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\denabank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unionbank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\unionbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ezoneonline.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\ezoneonline.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_edit.PNG",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\ic_action_edit.PNG"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\koovs.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\koovs.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orientalbankofcommerce.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\orientalbankofcommerce.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image2.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yatra.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\yatra.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleartrip.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\cleartrip.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifipassword.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\wifipassword.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image5.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\image5.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\statebankofindia.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\statebankofindia.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indusindbank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\indusindbank.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\faasos.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\faasos.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gmail.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\gmail.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abof.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\abof.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punjabnationalbank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\punjabnationalbank.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bigbasket.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\bigbasket.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yatra.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\yatra.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redbus.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\redbus.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_done.PNG",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\ic_action_done.PNG"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoho.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\zoho.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outlook.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\outlook.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airtel.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\airtel.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flipkart.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\flipkart.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ezoneonline.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\ezoneonline.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleartrip.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\cleartrip.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myntra.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\myntra.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobikwik.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\mobikwik.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_delete.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\ic_action_delete.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goibibo.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\goibibo.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yepme.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\yepme.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myntra.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\myntra.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\centralbankofindia.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\centralbankofindia.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unionbank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\unionbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tatacliq.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\tatacliq.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canarabank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\canarabank.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icicibank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\icicibank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image1.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\image1.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yesbank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\yesbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image7.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\image7.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image7.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\image7.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grofers.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\grofers.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paytm.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\paytm.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bankofbaroda.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\bankofbaroda.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tatasky.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\tatasky.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeshop18.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\homeshop18.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image6.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\image6.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\limeroad.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\limeroad.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image6.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\image6.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redbus.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\redbus.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airtel.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\airtel.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopclues.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\shopclues.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainpic.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\mainpic.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\netmeds.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\netmeds.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bewakoof.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\bewakoof.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abof.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\abof.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoho.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\zoho.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makemytrip.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\makemytrip.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_edit.PNG",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\ic_action_edit.PNG"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\limeroad.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\limeroad.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hdfcbank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\hdfcbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pizzahut.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\pizzahut.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pepperfry.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\pepperfry.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indusindbank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\indusindbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snapdeal.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\snapdeal.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yesbank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\yesbank.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makemytrip.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\makemytrip.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dominos.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\dominos.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainicon.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\mainicon.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ebay.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\ebay.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lenskart.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\lenskart.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image4.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\image4.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yepme.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\yepme.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_done.PNG",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\ic_action_done.PNG"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kfc.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\kfc.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jabong.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\jabong.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hdfcbank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\hdfcbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopclues.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\shopclues.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rediff.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\rediff.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icicibank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\icicibank.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image2.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\koovs.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\koovs.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flipkart.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\flipkart.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image5.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\image5.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bewakoof.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\bewakoof.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peye.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\peye.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gmail.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\gmail.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amazon.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\amazon.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orientalbankofcommerce.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\orientalbankofcommerce.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\axisbank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\axisbank.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bigbasket.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\bigbasket.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\faasos.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\faasos.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amazon.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\amazon.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dominos.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\dominos.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pizzahut.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\pizzahut.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\statebankofindia.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\statebankofindia.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rediff.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\rediff.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jabong.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\jabong.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canarabank.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\canarabank.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lenskart.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\lenskart.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yahoo.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\yahoo.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainicon.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\mainicon.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\infibeam.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\infibeam.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainpic.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\mainpic.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paytm.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\paytm.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifipassword.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\wifipassword.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snapdeal.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\snapdeal.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ebay.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\ebay.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiaomi.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\xiaomi.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voonik.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\voonik.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeshop18.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\homeshop18.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voonik.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\voonik.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiaomi.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\xiaomi.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\netmeds.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\netmeds.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goibibo.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\goibibo.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tatasky.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\tatasky.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punjabnationalbank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\punjabnationalbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grofers.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\grofers.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\image3.png"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\axisbank.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\axisbank.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bankofbaroda.png",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\src\\main\\res\\drawable\\bankofbaroda.png"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "F:\\KeepLearning\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peye.png",
+        "source": "F:\\7 Sem\\MAD\\SDP\\PasskeyManager\\app\\src\\main\\res\\drawable\\peye.png"
+    }
+]

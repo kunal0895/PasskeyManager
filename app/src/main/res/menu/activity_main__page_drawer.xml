@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:icon="@drawable/ic_menu_gallery"
+        android:checkableBehavior="single">
+
+        <item
+            android:id ="@+id/nav_view_secure_notes"
+            android:title="Secure Notes" >
+
+            <menu>
+                <item
+                    android:title="Bank Account"
+                    android:id="@+id/snba"/>
+                <item
+                    android:title="Credit Card"
+                    android:id="@+id/sncc"/>
+                <item
+                    android:title="Email Account"
+                    android:id="@+id/snea"/>
+                <item
+                    android:title="Wifi Password"
+                    android:id="@+id/snwp"/>
+            </menu>
+            </item>
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id ="@+id/nav_view_details"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="View User Details" />
+    </group>
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:id ="@+id/nav_view_sites"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="View Sites" />
+    </group>
+
+    <group
+        android:id="@+id/group4"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Edit Account" />
+
+    </group>
+
+</menu>

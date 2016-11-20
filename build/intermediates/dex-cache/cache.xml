@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_c5db58eac620e0cdabae151db1494124230ad0b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_6d69c67baff388f385646acaa520756dfeec7db2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_f53b192cb8745d73292dd451e0e1a84776e60d03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_bb7f45e22b48be890c989ec5f66fee7cf262f9ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_c2ec03b8d78c02e3f3279be3c8e86ffc539f0098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_5609ea9204c43bda35835528c4743e720eb9870e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_b540af1a53afd60461b4ae16048d52aacce6b6a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.1_15b5eea6a9769ad46d0366460fb827eea3ee471a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_8f92e9c8ab9c0a0d055b5c520301a30420b0d509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_4c7b413f10a8cf525bab546345085632cf5ac27c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.1_2ade3f3930ea43f91ba4b6b6ba08d5f91b4b5b59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_d57c9c0e114f5dc9dd270f60deba5c4cf3792a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_dbe5b7abcd5442a57e1a87b626da3d0db4a51f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.4.0\558e074f136fee609b8758480ecd00e286595137\firebase-client-jvm-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.4.0_6f98e5727718dd79ec869c43c40f9e8b6f256a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_8e0dadaf496980d3fbed63d3f21058aeaaec15a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_80ed40c2598de7a182a5bd824326537104179eaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_841a74cc0c1d785c63216085ce59092a3c6b431a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.1_49fad395be56f4117857e064662747e28dec3827\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_c1bece22523fc2ebdbb2b22b398ea3165635c8d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="03669011b3fe258380f40afefe3fd508ef175f2e">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_42cf6552d2f5cae51c7f791cf926ebe35cf7f4ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_d980fa05bd8fccebdcd81c64b8d98d3354645319\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.1_dcd7fc7b5a8e09e60ea85fb89ef57598532b25fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_7e3f7dafe89112981181279c84941013b581a010\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_2ed93a9c9d406f65cf23ce9b379e18c6d86a12f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_3609dfd30897f0a9d893377cc63391ab5626db3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-storage\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-storage-0.6.0_747ae86b50ca5de8b21f50aa3ccbca4cc4bff19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_286e71ecc520c1f78fff8561707a45f86c9bdb94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_bbc74a05aee28950d936c8da6b71e021da047f91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_93cf8246792dce4a04704a787d96bde21ece50d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.1_d80d7b09e66e034001445233165d3e97f7b4bc12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_c75e2b6e6d9db6405f87eeaf56cdde084a1e8388\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_b0ce5f9ad03f5f73ea9587938dfd7762e1052d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_0d8f8b7f300835fd9ec02c0c38de78df1f6a2dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_4a14be838ca77d8c12060ebfbf379620d2b9692b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_bb54a4894032a1ab0a32f39c541ed9ab9b075edf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_6a3b00b93698ca48e8342495729f5a34fe6cad8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_25123726b1a0ada0ac45f9d923e5b98e3e70e266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_f90a96c41f617eaad877e59a891f3b40d2a05aba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_8423d3929d7141086339259712f7fff9e45b0aae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_85cc5096d1f2156295b5100616e9cb42ee221226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_ed63b16dc44609bf2f469946a573e2ef61ab10d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_10791893e11befb7422468ad08d3b43b37f762b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_cd571b84acb1af9d1d20e5451e0dac3036802602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_fcad40145a09d643a079332a6a9fefd44b5fc682\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_48b8ad75fec004f863ff3390fcddf91054f88a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_2efb7a849555ddcb3127a59a6c9b7a2c596e78ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.1_fdace5ed79a87d9d3038330827d521011df88675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_8518b851baf0bd278bc962cc9a254f0e79675b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_5dd88e25deb454f59fd48d798291d0bb562d5520\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.1_ce56e18b0556b1f8d8dc2db689bd6d7587c6ed72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_c41fa5312625a4039347017336b00fc416317d00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_829e3a235ef53b5fb56680c7806a27b3669f1158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_9abd2b7ab9dd35e25ce4869866a2cf68a40a9a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_38fea97cb317226f5077d8d69e37847eaef746b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_0f754371ed3c46f3f88cdcf3c84c8f5d0de39f6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.1_5079edc6cd70c13dca457077b0fdbaac9d6a4dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_37ccb5e056bff0b35c2ee58cfaf33a6588d89399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_206658d3d994b866b5bc35e2d067b777600b2ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_605aeeba1614672c6c1de658241199fa2f204915\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.4.0\f00bc767918ad9c89e5c13e25706d033a58e13c2\firebase-client-android-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.4.0_080e13c9f667bb44faa0a7054bf53b8bf75aaef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_f0b406abb53860427804c07ce8609498b42b6ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_90e24adc8013ed63a6b3a1fe4166c6bdb574926a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_9a5a1a1d6c9de7d16b90e8565c3b13669f70acec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_15a20d4559d6519e4770a2827238a8015d7479be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_c4b373326247b8297c01c45b94acd26b47fdec07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_69b8e9ebf9aef4370c4053c647398a6f1c737908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_305596e19c4ad0db29fd750a1ca92c799b13448d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="096e13decf47fbbc59e1b550928df01bca993825">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9ce0473dbb275ef7d0c021fa837230a4bf1707c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_69ab352377c29bc05ca65a8c9ecc0fec9b119fac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_a3b0fd45ae58554f243ec2e7a25be567ba46cd5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KeepLearning\PasskeyManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="F:\KeepLearning\PasskeyManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_a61dc22a9eb7a22854a86fc3afe5626eb62a837b\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dhiren.passkeymanager">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/mainicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Register">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegisterPage" />
+        <activity android:name=".Login_Page" />
+        <activity
+            android:name=".Main_Page"
+            android:label="PasskeyManager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ListActivity"
+            android:label="Add Secure Notes"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".FormFill"
+            android:label="Form Fill"
+            android:parentActivityName=".Main_Page" />
+
+        <!-- <activity android:name=".CustomList"></activity> -->
+
+        <activity android:name=".ResetpasswordActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Manage Account"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".AfterSplash"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".BankAccount"
+            android:label="Bank Account"
+            android:parentActivityName=".ListActivity" />
+        <activity
+            android:name=".SitePage"
+            android:label="Add Sites"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".ViewDetails"
+            android:label="View Details"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".ViewSecureNotes"
+            android:label="View Secure Notes"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".ViewSites"
+            android:label="View Sites"
+            android:parentActivityName=".Main_Page" />
+        <activity android:name=".RegisterPageNew" />
+        <activity android:name=".Login_Page_New" />
+        <activity
+            android:name=".CreditCard"
+            android:label="Credit Card"
+            android:parentActivityName=".ListActivity" />
+        <activity
+            android:name=".EmailAccount"
+            android:label="Email Account"
+            android:parentActivityName=".ListActivity" />
+        <activity
+            android:name=".WiFiDetails"
+            android:label="WiFi Details"
+            android:parentActivityName=".ListActivity" />
+        <activity android:name=".LoginGoogle" />
+        <activity
+            android:name=".SiteDetails"
+            android:label="Details"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".WifiPasswordDetails"
+            android:label="WiFi Password Details"
+            android:parentActivityName=".Main_Page"/>
+        <activity
+            android:name=".EmailAccountDetails"
+            android:label="Email Account Details"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".BankAccountDetails"
+            android:label="Bank Account Details"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".CardDetails"
+            android:label="Card Details"
+            android:parentActivityName=".Main_Page" />
+        <activity
+            android:name=".ChangePassword"
+            android:label="Change Current Password"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity
+            android:name=".ResetPasswordSimpleActivity"
+            android:label="Reset Password"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".ProfilePicture"></activity>
+    </application>
+
+</manifest>

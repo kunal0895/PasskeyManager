@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dhiren.passkeymanager.BankAccount">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="75dp">
+
+            <TextView
+                android:id="@+id/bankname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bank Name"
+                android:paddingTop="20dp"/>
+
+            <AutoCompleteTextView
+                android:id="@+id/etbaname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/bankname"
+                android:inputType="text"
+                android:maxLines="1"
+                />
+
+            <TextView
+                android:id="@+id/custname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etbaname"
+                android:text="Customer Name"
+                android:paddingTop="20dp"/>
+
+            <EditText
+                android:id="@+id/ecustname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/custname"
+                android:inputType="text"
+                android:maxLines="1"
+                />
+
+            <TextView
+                android:id="@+id/custid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Customer Id"
+                android:paddingTop="20dp"
+                android:layout_below="@id/ecustname"/>
+
+            <EditText
+                android:id="@+id/ecustid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/custid"
+                android:inputType="number"
+                android:maxLines="1"
+                />
+
+            <TextView
+                android:id="@+id/accnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Account Number"
+                android:paddingTop="20dp"
+                android:layout_below="@id/ecustid"/>
+
+            <EditText
+                android:id="@+id/eaccnum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/accnum"
+                android:inputType="number"
+                android:maxLines="1"
+                />
+
+            <TextView
+                android:id="@+id/accpassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Password"
+                android:paddingTop="20dp"
+                android:layout_below="@id/eaccnum"/>
+
+            <EditText
+                android:id="@+id/eaccpassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/accpassword"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                />
+
+            <TextView
+                android:id="@+id/bankbranch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Branch Name"
+                android:paddingTop="20dp"
+                android:layout_below="@id/eaccpassword"/>
+
+            <EditText
+                android:id="@+id/ebankbranch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/bankbranch"
+                android:inputType="text"
+                android:maxLines="1"
+                />
+
+            <TextView
+                android:id="@+id/branchtel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Branch Tel No"
+                android:paddingTop="20dp"
+                android:layout_below="@id/ebankbranch"/>
+
+            <EditText
+                android:id="@+id/ebranchtel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/branchtel"
+                android:inputType="number"
+                android:maxLines="1"
+                />
+
+            <TextView
+                android:id="@+id/branchifsc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="IFSC Code"
+                android:paddingTop="20dp"
+                android:layout_below="@id/ebranchtel"/>
+
+            <EditText
+                android:id="@+id/ebranchifsc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/branchifsc"
+                android:inputType="text"
+                android:maxLines="1"
+                />
+
+            <Button
+                android:text="ADD BANK INFORMATION"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:id="@+id/button4"
+                android:layout_below="@id/ebranchifsc"/>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
